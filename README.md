@@ -1,2 +1,3 @@
 # hello-world
 First project on github
+Programming is so hard and boring...
